@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C69C4FAF23F2D70E0048D445 /* auto-layout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "auto-layout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C69C4FAF23F2D70E0048D445 /* Auto Layout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C69C4FB223F2D70E0048D445 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C69C4FB423F2D70E0048D445 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		C69C4FB623F2D70E0048D445 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		C69C4FB023F2D70E0048D445 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C69C4FAF23F2D70E0048D445 /* auto-layout.app */,
+				C69C4FAF23F2D70E0048D445 /* Auto Layout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = "auto-layout";
 			productName = "auto-layout";
-			productReference = C69C4FAF23F2D70E0048D445 /* auto-layout.app */;
+			productReference = C69C4FAF23F2D70E0048D445 /* Auto Layout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -292,7 +292,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.personal.auto-layout";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Auto Layout";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -310,7 +310,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.personal.auto-layout";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Auto Layout";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
